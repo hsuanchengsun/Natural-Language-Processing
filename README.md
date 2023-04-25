@@ -3,7 +3,7 @@
 This repository contains code for various NLP tasks that I have worked on.
 
 ## Evaluating the Quality of Healthcare Providers using Yelp Review Data
-This project aims to evaluate the quality of healthcare providers by analyzing Yelp reviews of businesses in the healthcare industry. The project will be conducted from Nov 2022 to Dec 2022.
+This project aims to evaluate the quality of healthcare providers by analyzing Yelp reviews of businesses in the healthcare industry. The project is a group project and I was reponsible for task 1, 2, 3, and 5.
 
 #### Objectives
 - Conduct data understanding and cleaning activities, including identification and justification of potential data issues via Python
