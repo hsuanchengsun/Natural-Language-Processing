@@ -10,7 +10,7 @@ This project aims to evaluate the quality of healthcare providers by analyzing Y
 - Develop text preprocessing such as tokenization and normalization for all reviews of businesses in the NLP task with NLTK and Gensim packages
 - Apply sentiment analysis to understand each business from their ratings and perform LDA topic modeling to explain different topics about the business quality
 - Compare different classifiers (Logistic Regression, SVM, and XGBoost) with different textural features (BOW, TF-IDF, Fasttext, and GloVe) and select the best model based on their accuracy and AUC scores
-- 
+
 #### Methodology
 The project will start with data understanding and cleaning activities using Python. The data will be explored to identify and justify any potential data issues that may affect the analysis. Text preprocessing techniques such as tokenization and normalization will be applied to all reviews of businesses in the NLP task using NLTK and Gensim packages.
 
